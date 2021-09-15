@@ -1,4 +1,4 @@
-# COVID_Portfolio_Projects
+# Portfolio_Projects
 Project for looking at and understanding COVID data using SQL, Tableau and Python for data analysis and visualisation
 
 I first began y better understanding the data in SQL using pgAdmin and PostgreSQL, I wrote some queries to better understand the data and answer some questions, these queries are shown in the file Covid_Portfolio_Project_SQL_Queries
