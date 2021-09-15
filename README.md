@@ -1,5 +1,4 @@
 # Portfolio_Projects
-Project for looking at and understanding COVID data using SQL, Tableau and Python for data analysis and visualisation
 
 The first two projects are projects using Covid-19 dataset:
 
@@ -7,3 +6,5 @@ The first two projects are projects using Covid-19 dataset:
 
 2.  I then used Tableau Public to a dashboard to show visualisations for the results of some of the queries mentioned in the previous file. The link for this dashboard is shown below:
 https://public.tableau.com/app/profile/veer1463/viz/Covid_Data_Analysis_16316636189810/Dashboard1
+
+3.  I then cleaned data from the nashville housing dataset using SQL. The SQL queries used to perform the cleaning operations are shown in the Data_Cleaning_Nashville_Housing file and the raw dataset used is seen in the csv file.
